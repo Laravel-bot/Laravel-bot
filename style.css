@@ -6,5 +6,5 @@
     margin-top: 20%;
 }
 .ins{
-    display: inline;
+    display: inline !important;
 }
