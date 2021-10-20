@@ -9,6 +9,6 @@
     margin-top: 18%;
 }
 body{
-    background-color: #161b22 !important;
+    background: url(bg.jpg) !important;
     background-size: cover;
 }
